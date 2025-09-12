@@ -14,6 +14,8 @@ This project investigates the relationship between AI implementation and corpora
 - Multiple regression models with control variables
 - Four-panel diagnostic visualisations
 - Detailed business-focused interpretation of results
+- To make the code output more visually appealing and engaging, I decided to try using icons and symbols throughout for the first time. This approach helps break up dense statistical text and makes it easier to spot key findings at a glance. The visual elements add some personality to what could otherwise be quite dry analytical output whilst keeping things professional
+
 
 ## Requirements
 
