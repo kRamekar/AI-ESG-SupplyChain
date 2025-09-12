@@ -224,6 +224,7 @@ I designed this to be compatible with corporate datasets containing:
 - Supply chain digitalisation indices
 - ESG performance scores
 - Standard financial and organisational control variables
+  
   Reference: World Bank. (2023). [World Development Indicators: Population (Version 1)](https://doi.org/10.7910/DVN/UEBOES). Harvard Dataverse.
 
 ## Contributing
