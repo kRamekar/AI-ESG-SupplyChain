@@ -15,7 +15,7 @@ To make the code output more visually appealing and engaging, I decided to try u
 ## Requirements
 
 ### Core Dependencies
-I kept the dependencies minimal:
+I kept the dependencies minimal::
 ```
 pandas
 numpy
